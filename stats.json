@@ -1,0 +1,1477 @@
+{
+  "errors": [
+  ],
+  "warnings": [
+  ],
+  "version": "4.46.0",
+  "hash": "ed0fdc5dc6b901ec60e3",
+  "time": 1586,
+  "builtAt": 1622067567015,
+  "publicPath": "",
+  "outputPath": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/dist/chrome",
+  "assetsByChunkName": {
+    "background": "background.js",
+    "content_script": [
+      "content_script.css",
+      "content_script.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "_locales/.DS_Store",
+      "size": 6148,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "_locales/en/messages.json",
+      "size": 423,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "_locales/es/messages.json",
+      "size": 430,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "_locales/fr/messages.json",
+      "size": 430,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "_locales/it/messages.json",
+      "size": 434,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "background.js",
+      "size": 930,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "background"
+      ],
+      "info": {
+      },
+      "emitted": true
+    },
+    {
+      "name": "content_script.css",
+      "size": 401,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "content_script"
+      ],
+      "info": {
+      },
+      "emitted": true
+    },
+    {
+      "name": "content_script.js",
+      "size": 15976,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "content_script"
+      ],
+      "info": {
+      },
+      "emitted": true
+    },
+    {
+      "name": "icons/.DS_Store",
+      "size": 6148,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "icons/favicon-128.png",
+      "size": 14493,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "icons/favicon-32.png",
+      "size": 7013,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "icons/favicon-48.png",
+      "size": 8341,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "icons/favicon-96.png",
+      "size": 12445,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "images/1x1.gif",
+      "size": 43,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "images/icon-store.png",
+      "size": 2989,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+        "copied": true
+      },
+      "emitted": true
+    },
+    {
+      "name": "manifest.json",
+      "size": 1466,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "info": {
+      },
+      "emitted": true
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "background": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "background.js"
+      ],
+      "children": {
+      },
+      "childAssets": {
+      }
+    },
+    "content_script": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "content_script.css",
+        "content_script.js"
+      ],
+      "children": {
+      },
+      "childAssets": {
+      }
+    }
+  },
+  "namedChunkGroups": {
+    "background": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "background.js"
+      ],
+      "children": {
+      },
+      "childAssets": {
+      }
+    },
+    "content_script": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "content_script.css",
+        "content_script.js"
+      ],
+      "children": {
+      },
+      "childAssets": {
+      }
+    }
+  },
+  "chunks": [
+    {
+      "id": 0,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 763,
+      "names": [
+        "background"
+      ],
+      "files": [
+        "background.js"
+      ],
+      "hash": "b2839bc28ed1c58c0bec",
+      "siblings": [
+      ],
+      "parents": [
+      ],
+      "children": [
+      ],
+      "childrenByOrder": {
+      },
+      "modules": [
+        {
+          "id": 0,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/background_script/index.js",
+          "name": "./background_script/index.js",
+          "index": 0,
+          "index2": 0,
+          "size": 763,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+          ],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "./background_script/index.js",
+              "loc": "background"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "filteredModules": 0,
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "background",
+          "request": "./background_script/index.js",
+          "reasons": [
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 46763,
+      "names": [
+        "content_script"
+      ],
+      "files": [
+        "content_script.css",
+        "content_script.js"
+      ],
+      "hash": "5c0d40831ea4d7b248d7",
+      "siblings": [
+      ],
+      "parents": [
+      ],
+      "children": [
+      ],
+      "childrenByOrder": {
+      },
+      "modules": [
+        {
+          "id": 1,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/webextension-polyfill/dist/browser-polyfill.js",
+          "name": "../node_modules/webextension-polyfill/dist/browser-polyfill.js",
+          "index": 2,
+          "index2": 1,
+          "size": 37209,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            1
+          ],
+          "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "issuerId": null,
+          "issuerName": "./content_script/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "name": "./content_script/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+          ],
+          "reasons": [
+            {
+              "moduleId": 3,
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+              "module": "./content_script/index.js + 1 modules",
+              "moduleName": "./content_script/index.js + 1 modules",
+              "type": "cjs require",
+              "userRequest": "webextension-polyfill",
+              "loc": "2:17-49"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "id": 2,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "name": "./styles/content_script.scss",
+          "index": 3,
+          "index2": 3,
+          "size": 39,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            1
+          ],
+          "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "issuerId": null,
+          "issuerName": "./content_script/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "name": "./content_script/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+          ],
+          "reasons": [
+            {
+              "moduleId": 3,
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+              "module": "./content_script/index.js + 1 modules",
+              "moduleName": "./content_script/index.js + 1 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../styles/content_script.scss",
+              "loc": "4:0-39"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "id": 3,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+          "name": "./content_script/index.js + 1 modules",
+          "index": 1,
+          "index2": 5,
+          "size": 9115,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            1
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+          ],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "./content_script/index.js",
+              "loc": "content_script"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+          ],
+          "optimizationBailout": [
+          ],
+          "depth": 0,
+          "modules": [
+            {
+              "id": null,
+              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "name": "./content_script/index.js",
+              "index": 1,
+              "index2": 5,
+              "size": 4944,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+              ],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "./content_script/index.js",
+                  "loc": "content_script"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+              ],
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is an entry point"
+              ],
+              "depth": 0
+            },
+            {
+              "id": null,
+              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/datas/urls.js",
+              "name": "./datas/urls.js",
+              "index": 5,
+              "index2": 4,
+              "size": 4166,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+              ],
+              "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "issuerId": null,
+              "issuerName": "./content_script/index.js",
+              "issuerPath": [
+                {
+                  "id": null,
+                  "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "name": "./content_script/index.js"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+              ],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "module": "./content_script/index.js",
+                  "moduleName": "./content_script/index.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../datas/urls.js",
+                  "loc": "5:0-63"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "module": "./content_script/index.js",
+                  "moduleName": "./content_script/index.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "../datas/urls.js",
+                  "loc": "8:27-48"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "module": "./content_script/index.js",
+                  "moduleName": "./content_script/index.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "../datas/urls.js",
+                  "loc": "131:23-27"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "module": "./content_script/index.js",
+                  "moduleName": "./content_script/index.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "../datas/urls.js",
+                  "loc": "133:8-12"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "module": "./content_script/index.js",
+                  "moduleName": "./content_script/index.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "../datas/urls.js",
+                  "loc": "135:20-24"
+                }
+              ],
+              "usedExports": [
+                "getSupportedLanguages",
+                "urls"
+              ],
+              "providedExports": [
+                "getSupportedLanguages",
+                "urls"
+              ],
+              "optimizationBailout": [
+              ],
+              "depth": 1
+            }
+          ],
+          "filteredModules": 0
+        },
+        {
+          "id": "",
+          "identifier": "css /Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss 0",
+          "name": "css ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+          "index": 4,
+          "index2": 2,
+          "size": 400,
+          "built": false,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            1
+          ],
+          "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "issuerId": 2,
+          "issuerName": "./styles/content_script.scss",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "name": "./content_script/index.js"
+            },
+            {
+              "id": 2,
+              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "name": "./styles/content_script.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+          ],
+          "reasons": [
+            {
+              "moduleId": 2,
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "module": "./styles/content_script.scss",
+              "moduleName": "./styles/content_script.scss"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 2
+        }
+      ],
+      "filteredModules": 0,
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "content_script",
+          "request": "./content_script/index.js",
+          "reasons": [
+          ]
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": 0,
+      "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/background_script/index.js",
+      "name": "./background_script/index.js",
+      "index": 0,
+      "index2": 0,
+      "size": 763,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [
+      ],
+      "reasons": [
+        {
+          "moduleId": null,
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "type": "single entry",
+          "userRequest": "./background_script/index.js",
+          "loc": "background"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "id": 1,
+      "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/webextension-polyfill/dist/browser-polyfill.js",
+      "name": "../node_modules/webextension-polyfill/dist/browser-polyfill.js",
+      "index": 2,
+      "index2": 1,
+      "size": 37209,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+      "issuerId": null,
+      "issuerName": "./content_script/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "name": "./content_script/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [
+      ],
+      "reasons": [
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+          "module": "./content_script/index.js + 1 modules",
+          "moduleName": "./content_script/index.js + 1 modules",
+          "type": "cjs require",
+          "userRequest": "webextension-polyfill",
+          "loc": "2:17-49"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "id": 2,
+      "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+      "name": "./styles/content_script.scss",
+      "index": 3,
+      "index2": 3,
+      "size": 39,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+      "issuerId": null,
+      "issuerName": "./content_script/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "name": "./content_script/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [
+      ],
+      "reasons": [
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+          "module": "./content_script/index.js + 1 modules",
+          "moduleName": "./content_script/index.js + 1 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "../styles/content_script.scss",
+          "loc": "4:0-39"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "id": 3,
+      "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+      "name": "./content_script/index.js + 1 modules",
+      "index": 1,
+      "index2": 5,
+      "size": 9115,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [
+      ],
+      "reasons": [
+        {
+          "moduleId": null,
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "type": "single entry",
+          "userRequest": "./content_script/index.js",
+          "loc": "content_script"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+      ],
+      "optimizationBailout": [
+      ],
+      "depth": 0,
+      "modules": [
+        {
+          "id": null,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "name": "./content_script/index.js",
+          "index": 1,
+          "index2": 5,
+          "size": 4944,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+          ],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "./content_script/index.js",
+              "loc": "content_script"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+          ],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is an entry point"
+          ],
+          "depth": 0
+        },
+        {
+          "id": null,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/datas/urls.js",
+          "name": "./datas/urls.js",
+          "index": 5,
+          "index2": 4,
+          "size": 4166,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+          ],
+          "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "issuerId": null,
+          "issuerName": "./content_script/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "name": "./content_script/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+          ],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "module": "./content_script/index.js",
+              "moduleName": "./content_script/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../datas/urls.js",
+              "loc": "5:0-63"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "module": "./content_script/index.js",
+              "moduleName": "./content_script/index.js",
+              "type": "harmony import specifier",
+              "userRequest": "../datas/urls.js",
+              "loc": "8:27-48"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "module": "./content_script/index.js",
+              "moduleName": "./content_script/index.js",
+              "type": "harmony import specifier",
+              "userRequest": "../datas/urls.js",
+              "loc": "131:23-27"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "module": "./content_script/index.js",
+              "moduleName": "./content_script/index.js",
+              "type": "harmony import specifier",
+              "userRequest": "../datas/urls.js",
+              "loc": "133:8-12"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "module": "./content_script/index.js",
+              "moduleName": "./content_script/index.js",
+              "type": "harmony import specifier",
+              "userRequest": "../datas/urls.js",
+              "loc": "135:20-24"
+            }
+          ],
+          "usedExports": [
+            "getSupportedLanguages",
+            "urls"
+          ],
+          "providedExports": [
+            "getSupportedLanguages",
+            "urls"
+          ],
+          "optimizationBailout": [
+          ],
+          "depth": 1
+        }
+      ],
+      "filteredModules": 0
+    },
+    {
+      "id": "",
+      "identifier": "css /Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss 0",
+      "name": "css ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+      "index": 4,
+      "index2": 2,
+      "size": 400,
+      "built": false,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+      "issuerId": 2,
+      "issuerName": "./styles/content_script.scss",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "name": "./content_script/index.js"
+        },
+        {
+          "id": 2,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "name": "./styles/content_script.scss"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [
+      ],
+      "reasons": [
+        {
+          "moduleId": 2,
+          "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "module": "./styles/content_script.scss",
+          "moduleName": "./styles/content_script.scss"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 2
+    }
+  ],
+  "filteredModules": 0,
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [
+      ],
+      "filteredEntries": 2,
+      "debug": false
+    },
+    "copy-webpack-plugin": {
+      "entries": [
+        {
+          "type": "log",
+          "message": "begin globbing \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/**/*\" with a context of \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales\""
+        },
+        {
+          "type": "log",
+          "message": "begin globbing \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/**/*\" with a context of \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons\""
+        },
+        {
+          "type": "log",
+          "message": "begin globbing \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images/**/*\" with a context of \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/.DS_Store\" should write to \"icons/.DS_Store\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-128.png\" should write to \"icons/favicon-128.png\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-32.png\" should write to \"icons/favicon-32.png\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-48.png\" should write to \"icons/favicon-48.png\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-96.png\" should write to \"icons/favicon-96.png\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images/1x1.gif\" should write to \"images/1x1.gif\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images/icon-store.png\" should write to \"images/icon-store.png\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/.DS_Store\" should write to \"_locales/.DS_Store\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/en/messages.json\" should write to \"_locales/en/messages.json\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/es/messages.json\" should write to \"_locales/es/messages.json\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/fr/messages.json\" should write to \"_locales/fr/messages.json\""
+        },
+        {
+          "type": "log",
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/it/messages.json\" should write to \"_locales/it/messages.json\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"_locales/.DS_Store\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/.DS_Store\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"_locales/en/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/en/messages.json\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"_locales/es/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/es/messages.json\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"_locales/fr/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/fr/messages.json\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"_locales/it/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/it/messages.json\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"icons/.DS_Store\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/.DS_Store\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"icons/favicon-128.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-128.png\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"icons/favicon-32.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-32.png\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"icons/favicon-48.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-48.png\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"icons/favicon-96.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-96.png\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"images/1x1.gif\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images/1x1.gif\""
+        },
+        {
+          "type": "log",
+          "message": "writing \"images/icon-store.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images/icon-store.png\""
+        }
+      ],
+      "filteredEntries": 38,
+      "debug": false
+    }
+  },
+  "children": [
+    {
+      "errors": [
+      ],
+      "warnings": [
+      ],
+      "publicPath": "",
+      "outputPath": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/dist/chrome",
+      "assetsByChunkName": {
+      },
+      "assets": [
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {
+          },
+          "childAssets": {
+          }
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {
+          },
+          "childAssets": {
+          }
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 3200,
+          "names": [
+            "mini-css-extract-plugin"
+          ],
+          "files": [
+            "*"
+          ],
+          "hash": "85181b7f00214398f1f2",
+          "siblings": [
+          ],
+          "parents": [
+          ],
+          "children": [
+          ],
+          "childrenByOrder": {
+          },
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/runtime/api.js",
+              "name": "../node_modules/css-loader/dist/runtime/api.js",
+              "index": 1,
+              "index2": 0,
+              "size": 2517,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "issuerId": 1,
+              "issuerName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+              "issuerPath": [
+                {
+                  "id": 1,
+                  "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+                  "name": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+              ],
+              "reasons": [
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+                  "module": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+                  "moduleName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "2:0-92"
+                },
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+                  "module": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+                  "moduleName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+                  "type": "harmony import specifier",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "3:30-57"
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "id": 1,
+              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "name": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+              "index": 0,
+              "index2": 1,
+              "size": 683,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+              ],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "!!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+                  "loc": "mini-css-extract-plugin"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module uses module.id"
+              ],
+              "depth": 0
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "mini-css-extract-plugin",
+              "request": "!!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "reasons": [
+              ]
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "id": 0,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/runtime/api.js",
+          "name": "../node_modules/css-loader/dist/runtime/api.js",
+          "index": 1,
+          "index2": 0,
+          "size": 2517,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "issuerId": 1,
+          "issuerName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+          "issuerPath": [
+            {
+              "id": 1,
+              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "name": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+          ],
+          "reasons": [
+            {
+              "moduleId": 1,
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "module": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+              "moduleName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "2:0-92"
+            },
+            {
+              "moduleId": 1,
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "module": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+              "moduleName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+              "type": "harmony import specifier",
+              "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "3:30-57"
+            }
+          ],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "id": 1,
+          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "name": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
+          "index": 0,
+          "index2": 1,
+          "size": 683,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+          ],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "!!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "loc": "mini-css-extract-plugin"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module uses module.id"
+          ],
+          "depth": 0
+        }
+      ],
+      "filteredModules": 0,
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [
+          ],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [
+      ],
+      "name": "mini-css-extract-plugin ../../../../../1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!../../../../../1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!../../../../../1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss"
+    }
+  ]
+}
