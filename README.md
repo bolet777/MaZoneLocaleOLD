@@ -11,9 +11,9 @@ Elle inclut en l'occurence une direction vers le site [Les libraires](https://ww
 Installation :
 1. Télécharger le zip
 2. Décompresser le zip
-3. Dans Chrome allez dans les [extensions](chrome://extensions/) 
-4. Choisissez le répertoire décompresser dans l'étape 2
-5. Enjoy !
+3. Dans Chrome, aller dans les [extensions](chrome://extensions/) 
+4. Choisir le répertoire décompressé en 2
+5. Allez sur Amazon, faites une recherche et regardez le joli bouton apparaitre pour Acheter Local !
 
 Ce projet est un test et largement basé sur la formidable extension [Amazon Killer](https://github.com/elliotlepers/Amazon-Killer).
 
