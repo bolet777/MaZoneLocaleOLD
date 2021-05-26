@@ -1,5 +1,9 @@
 # MaZoneLocale
 
+--------------------- Disclaimer -----------------------
+
+I'll do a fork from [Amazon Killer](https://github.com/elliotlepers/Amazon-Killer)
+
 ------------------- Work in Progress -------------------
 
 Extension Chrome pour trouver à partir d'une recherche dans Amazon des livres ou des produits chez des marchands locaux au Québec.
