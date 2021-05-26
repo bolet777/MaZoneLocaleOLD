@@ -11,7 +11,7 @@ Elle inclut en l'occurence une direction vers le site [Les libraires](https://ww
 Installation :
 1. Télécharger le zip
 2. Décompresser le zip
-3. Dans Chrome aller dans les [extensions](chrome://extensions/) 
+3. Dans Chrome allez dans les [extensions](chrome://extensions/) 
 4. Choisissez le répertoire décompresser dans l'étape 2
 5. Enjoy !
 
