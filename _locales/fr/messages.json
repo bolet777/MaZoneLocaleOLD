@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Ma Zone Locale",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Extension Chrome et Firefox pour chercher un produit sur Amazon et l'acheter sur Panier Bleu.",
+    "description": "Description of the extension."
+  },
+
+  "buttonText": {
+    "message": "Acheter en librairie",
+    "description": "Button text (on yellow / orange background)"
+  }
+}
