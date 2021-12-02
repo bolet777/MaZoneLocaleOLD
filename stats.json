@@ -5,10 +5,10 @@
   ],
   "version": "4.46.0",
   "hash": "ed0fdc5dc6b901ec60e3",
-  "time": 1586,
-  "builtAt": 1622067567015,
+  "time": 2931,
+  "builtAt": 1638472858254,
   "publicPath": "",
-  "outputPath": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/dist/chrome",
+  "outputPath": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/dist/chrome",
   "assetsByChunkName": {
     "background": "background.js",
     "content_script": [
@@ -67,7 +67,7 @@
     },
     {
       "name": "_locales/it/messages.json",
-      "size": 434,
+      "size": 435,
       "chunks": [
       ],
       "chunkNames": [
@@ -202,7 +202,7 @@
     },
     {
       "name": "manifest.json",
-      "size": 1466,
+      "size": 1318,
       "chunks": [
       ],
       "chunkNames": [
@@ -292,7 +292,7 @@
       "modules": [
         {
           "id": 0,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/background_script/index.js",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/background_script/index.js",
           "name": "./background_script/index.js",
           "index": 0,
           "index2": 0,
@@ -370,7 +370,7 @@
       "modules": [
         {
           "id": 1,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/webextension-polyfill/dist/browser-polyfill.js",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/webextension-polyfill/dist/browser-polyfill.js",
           "name": "../node_modules/webextension-polyfill/dist/browser-polyfill.js",
           "index": 2,
           "index2": 1,
@@ -382,13 +382,13 @@
           "chunks": [
             1
           ],
-          "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "issuer": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
           "issuerId": null,
           "issuerName": "./content_script/index.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "name": "./content_script/index.js"
             }
           ],
@@ -400,7 +400,7 @@
           "reasons": [
             {
               "moduleId": 3,
-              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js 92579737f463807793835dc4d612ae8c",
               "module": "./content_script/index.js + 1 modules",
               "moduleName": "./content_script/index.js + 1 modules",
               "type": "cjs require",
@@ -417,7 +417,7 @@
         },
         {
           "id": 2,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
           "name": "./styles/content_script.scss",
           "index": 3,
           "index2": 3,
@@ -429,13 +429,13 @@
           "chunks": [
             1
           ],
-          "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "issuer": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
           "issuerId": null,
           "issuerName": "./content_script/index.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "name": "./content_script/index.js"
             }
           ],
@@ -447,7 +447,7 @@
           "reasons": [
             {
               "moduleId": 3,
-              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js 92579737f463807793835dc4d612ae8c",
               "module": "./content_script/index.js + 1 modules",
               "moduleName": "./content_script/index.js + 1 modules",
               "type": "harmony side effect evaluation",
@@ -464,7 +464,7 @@
         },
         {
           "id": 3,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js 92579737f463807793835dc4d612ae8c",
           "name": "./content_script/index.js + 1 modules",
           "index": 1,
           "index2": 5,
@@ -505,7 +505,7 @@
           "modules": [
             {
               "id": null,
-              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "name": "./content_script/index.js",
               "index": 1,
               "index2": 5,
@@ -546,7 +546,7 @@
             },
             {
               "id": null,
-              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/datas/urls.js",
+              "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/datas/urls.js",
               "name": "./datas/urls.js",
               "index": 5,
               "index2": 4,
@@ -557,13 +557,13 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "issuer": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "issuerId": null,
               "issuerName": "./content_script/index.js",
               "issuerPath": [
                 {
                   "id": null,
-                  "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
                   "name": "./content_script/index.js"
                 }
               ],
@@ -575,7 +575,7 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
                   "module": "./content_script/index.js",
                   "moduleName": "./content_script/index.js",
                   "type": "harmony side effect evaluation",
@@ -584,7 +584,7 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
                   "module": "./content_script/index.js",
                   "moduleName": "./content_script/index.js",
                   "type": "harmony import specifier",
@@ -593,7 +593,7 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
                   "module": "./content_script/index.js",
                   "moduleName": "./content_script/index.js",
                   "type": "harmony import specifier",
@@ -602,7 +602,7 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
                   "module": "./content_script/index.js",
                   "moduleName": "./content_script/index.js",
                   "type": "harmony import specifier",
@@ -611,7 +611,7 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
                   "module": "./content_script/index.js",
                   "moduleName": "./content_script/index.js",
                   "type": "harmony import specifier",
@@ -636,7 +636,7 @@
         },
         {
           "id": "",
-          "identifier": "css /Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss 0",
+          "identifier": "css /Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss 0",
           "name": "css ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
           "index": 4,
           "index2": 2,
@@ -647,18 +647,18 @@
           "chunks": [
             1
           ],
-          "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "issuer": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
           "issuerId": 2,
           "issuerName": "./styles/content_script.scss",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "name": "./content_script/index.js"
             },
             {
               "id": 2,
-              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
               "name": "./styles/content_script.scss"
             }
           ],
@@ -670,7 +670,7 @@
           "reasons": [
             {
               "moduleId": 2,
-              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
               "module": "./styles/content_script.scss",
               "moduleName": "./styles/content_script.scss"
             }
@@ -700,7 +700,7 @@
   "modules": [
     {
       "id": 0,
-      "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/background_script/index.js",
+      "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/background_script/index.js",
       "name": "./background_script/index.js",
       "index": 0,
       "index2": 0,
@@ -741,7 +741,7 @@
     },
     {
       "id": 1,
-      "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/webextension-polyfill/dist/browser-polyfill.js",
+      "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/webextension-polyfill/dist/browser-polyfill.js",
       "name": "../node_modules/webextension-polyfill/dist/browser-polyfill.js",
       "index": 2,
       "index2": 1,
@@ -753,13 +753,13 @@
       "chunks": [
         1
       ],
-      "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+      "issuer": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
       "issuerId": null,
       "issuerName": "./content_script/index.js",
       "issuerPath": [
         {
           "id": null,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
           "name": "./content_script/index.js"
         }
       ],
@@ -771,7 +771,7 @@
       "reasons": [
         {
           "moduleId": 3,
-          "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+          "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js 92579737f463807793835dc4d612ae8c",
           "module": "./content_script/index.js + 1 modules",
           "moduleName": "./content_script/index.js + 1 modules",
           "type": "cjs require",
@@ -788,7 +788,7 @@
     },
     {
       "id": 2,
-      "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+      "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
       "name": "./styles/content_script.scss",
       "index": 3,
       "index2": 3,
@@ -800,13 +800,13 @@
       "chunks": [
         1
       ],
-      "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+      "issuer": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
       "issuerId": null,
       "issuerName": "./content_script/index.js",
       "issuerPath": [
         {
           "id": null,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
           "name": "./content_script/index.js"
         }
       ],
@@ -818,7 +818,7 @@
       "reasons": [
         {
           "moduleId": 3,
-          "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+          "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js 92579737f463807793835dc4d612ae8c",
           "module": "./content_script/index.js + 1 modules",
           "moduleName": "./content_script/index.js + 1 modules",
           "type": "harmony side effect evaluation",
@@ -835,7 +835,7 @@
     },
     {
       "id": 3,
-      "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js 61eb357e99c3975bb08c3ed4cd1f1da3",
+      "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js 92579737f463807793835dc4d612ae8c",
       "name": "./content_script/index.js + 1 modules",
       "index": 1,
       "index2": 5,
@@ -876,7 +876,7 @@
       "modules": [
         {
           "id": null,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
           "name": "./content_script/index.js",
           "index": 1,
           "index2": 5,
@@ -917,7 +917,7 @@
         },
         {
           "id": null,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/datas/urls.js",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/datas/urls.js",
           "name": "./datas/urls.js",
           "index": 5,
           "index2": 4,
@@ -928,13 +928,13 @@
           "prefetched": false,
           "chunks": [
           ],
-          "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "issuer": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
           "issuerId": null,
           "issuerName": "./content_script/index.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "name": "./content_script/index.js"
             }
           ],
@@ -946,7 +946,7 @@
           "reasons": [
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "module": "./content_script/index.js",
               "moduleName": "./content_script/index.js",
               "type": "harmony side effect evaluation",
@@ -955,7 +955,7 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "module": "./content_script/index.js",
               "moduleName": "./content_script/index.js",
               "type": "harmony import specifier",
@@ -964,7 +964,7 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "module": "./content_script/index.js",
               "moduleName": "./content_script/index.js",
               "type": "harmony import specifier",
@@ -973,7 +973,7 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "module": "./content_script/index.js",
               "moduleName": "./content_script/index.js",
               "type": "harmony import specifier",
@@ -982,7 +982,7 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
               "module": "./content_script/index.js",
               "moduleName": "./content_script/index.js",
               "type": "harmony import specifier",
@@ -1007,7 +1007,7 @@
     },
     {
       "id": "",
-      "identifier": "css /Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss 0",
+      "identifier": "css /Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss 0",
       "name": "css ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
       "index": 4,
       "index2": 2,
@@ -1018,18 +1018,18 @@
       "chunks": [
         1
       ],
-      "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+      "issuer": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
       "issuerId": 2,
       "issuerName": "./styles/content_script.scss",
       "issuerPath": [
         {
           "id": null,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/content_script/index.js",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/eslint-loader/dist/cjs.js??ref--4!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/content_script/index.js",
           "name": "./content_script/index.js"
         },
         {
           "id": 2,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
           "name": "./styles/content_script.scss"
         }
       ],
@@ -1041,7 +1041,7 @@
       "reasons": [
         {
           "moduleId": 2,
-          "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
           "module": "./styles/content_script.scss",
           "moduleName": "./styles/content_script.scss"
         }
@@ -1066,111 +1066,111 @@
       "entries": [
         {
           "type": "log",
-          "message": "begin globbing \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/**/*\" with a context of \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales\""
+          "message": "begin globbing \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/**/*\" with a context of \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales\""
         },
         {
           "type": "log",
-          "message": "begin globbing \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/**/*\" with a context of \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons\""
+          "message": "begin globbing \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/**/*\" with a context of \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons\""
         },
         {
           "type": "log",
-          "message": "begin globbing \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images/**/*\" with a context of \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images\""
+          "message": "begin globbing \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/images/**/*\" with a context of \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/images\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/.DS_Store\" should write to \"icons/.DS_Store\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/images/1x1.gif\" should write to \"images/1x1.gif\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-128.png\" should write to \"icons/favicon-128.png\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/images/icon-store.png\" should write to \"images/icon-store.png\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-32.png\" should write to \"icons/favicon-32.png\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/.DS_Store\" should write to \"icons/.DS_Store\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-48.png\" should write to \"icons/favicon-48.png\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/favicon-128.png\" should write to \"icons/favicon-128.png\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-96.png\" should write to \"icons/favicon-96.png\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/favicon-32.png\" should write to \"icons/favicon-32.png\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images/1x1.gif\" should write to \"images/1x1.gif\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/favicon-48.png\" should write to \"icons/favicon-48.png\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images/icon-store.png\" should write to \"images/icon-store.png\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/favicon-96.png\" should write to \"icons/favicon-96.png\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/.DS_Store\" should write to \"_locales/.DS_Store\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/.DS_Store\" should write to \"_locales/.DS_Store\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/en/messages.json\" should write to \"_locales/en/messages.json\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/en/messages.json\" should write to \"_locales/en/messages.json\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/es/messages.json\" should write to \"_locales/es/messages.json\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/es/messages.json\" should write to \"_locales/es/messages.json\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/fr/messages.json\" should write to \"_locales/fr/messages.json\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/it/messages.json\" should write to \"_locales/it/messages.json\""
         },
         {
           "type": "log",
-          "message": "determined that \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/it/messages.json\" should write to \"_locales/it/messages.json\""
+          "message": "determined that \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/fr/messages.json\" should write to \"_locales/fr/messages.json\""
         },
         {
           "type": "log",
-          "message": "writing \"_locales/.DS_Store\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/.DS_Store\""
+          "message": "writing \"_locales/.DS_Store\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/.DS_Store\""
         },
         {
           "type": "log",
-          "message": "writing \"_locales/en/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/en/messages.json\""
+          "message": "writing \"_locales/en/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/en/messages.json\""
         },
         {
           "type": "log",
-          "message": "writing \"_locales/es/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/es/messages.json\""
+          "message": "writing \"_locales/es/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/es/messages.json\""
         },
         {
           "type": "log",
-          "message": "writing \"_locales/fr/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/fr/messages.json\""
+          "message": "writing \"_locales/it/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/it/messages.json\""
         },
         {
           "type": "log",
-          "message": "writing \"_locales/it/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/_locales/it/messages.json\""
+          "message": "writing \"_locales/fr/messages.json\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/_locales/fr/messages.json\""
         },
         {
           "type": "log",
-          "message": "writing \"icons/.DS_Store\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/.DS_Store\""
+          "message": "writing \"icons/.DS_Store\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/.DS_Store\""
         },
         {
           "type": "log",
-          "message": "writing \"icons/favicon-128.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-128.png\""
+          "message": "writing \"icons/favicon-128.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/favicon-128.png\""
         },
         {
           "type": "log",
-          "message": "writing \"icons/favicon-32.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-32.png\""
+          "message": "writing \"icons/favicon-32.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/favicon-32.png\""
         },
         {
           "type": "log",
-          "message": "writing \"icons/favicon-48.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-48.png\""
+          "message": "writing \"icons/favicon-48.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/favicon-48.png\""
         },
         {
           "type": "log",
-          "message": "writing \"icons/favicon-96.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/icons/favicon-96.png\""
+          "message": "writing \"icons/favicon-96.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/icons/favicon-96.png\""
         },
         {
           "type": "log",
-          "message": "writing \"images/1x1.gif\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images/1x1.gif\""
+          "message": "writing \"images/1x1.gif\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/images/1x1.gif\""
         },
         {
           "type": "log",
-          "message": "writing \"images/icon-store.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/images/icon-store.png\""
+          "message": "writing \"images/icon-store.png\" to compilation assets from \"/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/images/icon-store.png\""
         }
       ],
       "filteredEntries": 38,
@@ -1184,7 +1184,7 @@
       "warnings": [
       ],
       "publicPath": "",
-      "outputPath": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/dist/chrome",
+      "outputPath": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/dist/chrome",
       "assetsByChunkName": {
       },
       "assets": [
@@ -1243,7 +1243,7 @@
           "modules": [
             {
               "id": 0,
-              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/runtime/api.js",
+              "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/runtime/api.js",
               "name": "../node_modules/css-loader/dist/runtime/api.js",
               "index": 1,
               "index2": 0,
@@ -1255,13 +1255,13 @@
               "chunks": [
                 0
               ],
-              "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "issuer": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
               "issuerId": 1,
               "issuerName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
               "issuerPath": [
                 {
                   "id": 1,
-                  "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+                  "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
                   "name": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss"
                 }
               ],
@@ -1273,7 +1273,7 @@
               "reasons": [
                 {
                   "moduleId": 1,
-                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
                   "module": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
                   "moduleName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
                   "type": "harmony side effect evaluation",
@@ -1282,7 +1282,7 @@
                 },
                 {
                   "moduleId": 1,
-                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+                  "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
                   "module": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
                   "moduleName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
                   "type": "harmony import specifier",
@@ -1301,7 +1301,7 @@
             },
             {
               "id": 1,
-              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
               "name": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
               "index": 0,
               "index2": 1,
@@ -1329,7 +1329,7 @@
                   "module": null,
                   "moduleName": null,
                   "type": "single entry",
-                  "userRequest": "!!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+                  "userRequest": "!!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
                   "loc": "mini-css-extract-plugin"
                 }
               ],
@@ -1350,7 +1350,7 @@
               "moduleIdentifier": "",
               "moduleName": "",
               "loc": "mini-css-extract-plugin",
-              "request": "!!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "request": "!!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
               "reasons": [
               ]
             }
@@ -1360,7 +1360,7 @@
       "modules": [
         {
           "id": 0,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/runtime/api.js",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/runtime/api.js",
           "name": "../node_modules/css-loader/dist/runtime/api.js",
           "index": 1,
           "index2": 0,
@@ -1372,13 +1372,13 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "issuer": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
           "issuerId": 1,
           "issuerName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
           "issuerPath": [
             {
               "id": 1,
-              "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
               "name": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss"
             }
           ],
@@ -1390,7 +1390,7 @@
           "reasons": [
             {
               "moduleId": 1,
-              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
               "module": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
               "moduleName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
               "type": "harmony side effect evaluation",
@@ -1399,7 +1399,7 @@
             },
             {
               "moduleId": 1,
-              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "moduleIdentifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
               "module": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
               "moduleName": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
               "type": "harmony import specifier",
@@ -1418,7 +1418,7 @@
         },
         {
           "id": 1,
-          "identifier": "/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+          "identifier": "/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
           "name": "../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/content_script.scss",
           "index": 0,
           "index2": 1,
@@ -1446,7 +1446,7 @@
               "module": null,
               "moduleName": null,
               "type": "single entry",
-              "userRequest": "!!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss",
+              "userRequest": "!!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/css-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/node_modules/sass-loader/dist/cjs.js!/Users/cyrilcosenza/Documents/1-Dev/MaZoneLocale/code/MaZoneLocale/src/styles/content_script.scss",
               "loc": "mini-css-extract-plugin"
             }
           ],
@@ -1471,7 +1471,7 @@
       },
       "children": [
       ],
-      "name": "mini-css-extract-plugin ../../../../../1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/css-loader/dist/cjs.js!../../../../../1 - Dev/MaZoneLocale/code/Amazon-Killer/node_modules/sass-loader/dist/cjs.js!../../../../../1 - Dev/MaZoneLocale/code/Amazon-Killer/src/styles/content_script.scss"
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!styles/content_script.scss"
     }
   ]
 }

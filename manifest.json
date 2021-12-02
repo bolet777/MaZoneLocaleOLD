@@ -14,18 +14,10 @@
     "128": "icons/favicon-128.png"
   },
   "description": "__MSG_extensionDescription__",
-  "homepage_url": "https://github.com/lowwebtech/webextension-starter",
+  "homepage_url": "https://github.com/bolet777/MaZoneLocale",
   "short_name": "mazonelocale",
-  "permissions": [
-    "storage",
-    "tabs",
-    "webNavigation",
-    "webRequest",
-    "webRequestBlocking",
-    "<all_urls>"
-  ],
   "content_security_policy": "script-src 'self'; object-src 'self'",
-  "author": "lowwebtech",
+  "author": "bolet",
   "minimum_chrome_version": "49",
   "background": {
     "scripts": [
