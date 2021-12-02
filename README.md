@@ -16,11 +16,12 @@ Elle inclut en l'occurence une direction vers le site Les libraires et Panier Bl
 
 Installation :
 
-Télécharger le zip
-Décompresser le zip
-Dans Chrome, aller dans les extensions
-Choisir le répertoire décompressé en 2
-Allez sur Amazon, faites une recherche et regardez le joli bouton apparaitre pour Acheter Local !
+1. Télécharger le zip
+2. Décompresser le zip
+3. Dans Chrome, aller dans les extensions
+4. Choisir le répertoire décompressé en 2
+5. Allez sur Amazon, faites une recherche et regardez le joli bouton apparaitre pour Acheter Local !
+
 Ce projet est un test et largement basé sur la formidable extension Amazon Killer.
 
 Nous sommes présentement en pleine pandémie Covid19 et comme beaucoup j'en ai marre de voir les boutiques locales fermées et les cartons d'Amazon envahir les rues.
